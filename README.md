@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<p class="blue">Hello STA 141B!</p>
+<p class="red">Hello STA 141B!</p>
 
 You can use the [editor on GitHub](https://github.com/nick-ulle/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
