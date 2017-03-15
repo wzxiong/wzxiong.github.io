@@ -2,7 +2,8 @@
 
 
 ### About me
-I am a master student at UC Davis in Civl Engineering Department,  <img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="100" height="150" />
+<img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="150" height="150" />
+I am a master student at UC Davis in Civl Engineering Department, 
 Since I am quite interested in Statistic and Machine Learning, So
 I am taking Statistic courses right now. I aim to be a data scientist
 or work in Artific Intelligence area.
@@ -13,6 +14,5 @@ or work in Artific Intelligence area.
 2. Advance Statistic Computing (High-performance computing in python)
 3. Statistic Method Machine Learning
 
-<img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="100" height="150" />
 
 For more details see [My GitHub](https://github.com/wzxiong).
