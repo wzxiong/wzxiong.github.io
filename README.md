@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
 <img align="right" src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="150" height="150" />
+
 ### About me
 
 I am currently a master student at UC Davis in Civl Engineering Department. Before this, I earn my Bachelor degree from Tongji University in China.
