@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
-
+![bear](bear.jpg)
 ### About me
 I am a master student at UC Davis in Civl Engineering Department, Since I am quite interested in Statistic and Machine Learning, So I am taking Statistic courses right now. I aim to be a data scientist or work in Artific Intelligence area.
-[bear](bear.jpg)
 
 ### Taken or taking course
 
