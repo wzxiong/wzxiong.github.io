@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![bear](bear.jpg)
+
 ### About me
 I am a master student at UC Davis in Civl Engineering Department, Since I am quite interested in Statistic and Machine Learning, So I am taking Statistic courses right now. I aim to be a data scientist or work in Artific Intelligence area.
 
@@ -11,7 +11,7 @@ I am a master student at UC Davis in Civl Engineering Department, Since I am qui
 3. Statistic Method Machine Learning
 
 
-![](https://blog.ikke.moe/img/miui7.png)
+![bear](bear.jpg)
 这里是段落内容，注意两行中间并没有任何的换行！
 
 
