@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<p>Weizhuo xiong</p> 
+<p class:red>Weizhuo xiong</p> 
 <p>wzxiong@ucdavis.edu</p>
 
 ### About me
