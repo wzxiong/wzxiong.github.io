@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-<p class="red">Hello Everyone!</p>
+<p>Weizhuo xiong</p> 
+<p>wzxiong@ucdavis.edu</p>
 
 ### About me
 I am a master student at UC Davis in Civl Engineering Department, Since I am quite interested in Statistic and Machine Learning, So I am taking Statistic courses right now. I aim to be a data scientist or work in Artific Intelligence area.
