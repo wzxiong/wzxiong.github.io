@@ -3,7 +3,7 @@
 
 ### About me
 
-<img align="right" src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="200" height="230" />
+<img align="right" src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="170" height="170" />
 I am currently a master student at UC Davis in Civl Engineering Department. Before this, I earn my Bachelor degree from Tongji University in China. Since I am quite interested in Statistic and Machine Learning, So I am taking Statistic courses right now. I aim to be a data scientist or work in Artific Intelligence area.
 
 ### Taken or taking course
