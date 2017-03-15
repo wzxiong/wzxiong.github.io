@@ -14,5 +14,6 @@ or work in Artific Intelligence area.
 2. Advance Statistic Computing (High-performance computing in python)
 3. Statistic Method Machine Learning
 
-
+| 1 | 2|
+| 3 | 4|
 For more details see [My GitHub](https://github.com/wzxiong).
