@@ -11,8 +11,7 @@ I am a master student at UC Davis in Civl Engineering Department, Since I am qui
 3. Statistic Method Machine Learning
 
 
-![bear](bear.jpg)
-这里是段落内容，注意两行中间并没有任何的换行！
+![bear](bear.jpg)这里是段落内容，注意两行中间并没有任何的换行！
 
 
 For more details see [My GitHub](https://github.com/wzxiong).
