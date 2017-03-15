@@ -1,8 +1,11 @@
-0## Welcome to GitHub Pages
+## Welcome to GitHub Pages
 
 
 ### About me
-I am a master student at UC Davis in Civl Engineering Department, Since I am quite interested in Statistic and Machine Learning, So I am taking Statistic courses right now. I aim to be a data scientist or work in Artific Intelligence area.
+I am a master student at UC Davis in Civl Engineering Department,  <img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="100" height="150" />
+Since I am quite interested in Statistic and Machine Learning, So
+I am taking Statistic courses right now. I aim to be a data scientist
+or work in Artific Intelligence area.
 
 ### Taken or taking course
 
