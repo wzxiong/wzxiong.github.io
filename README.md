@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+0## Welcome to GitHub Pages
 
 
 ### About me
@@ -10,6 +10,6 @@ I am a master student at UC Davis in Civl Engineering Department, Since I am qui
 2. Advance Statistic Computing (High-performance computing in python)
 3. Statistic Method Machine Learning
 
-<img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="5" height="5" />
+<img src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="50" height="50" />
 
 For more details see [My GitHub](https://github.com/wzxiong).
