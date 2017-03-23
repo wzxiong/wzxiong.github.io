@@ -1,4 +1,3 @@
-
 ## Welcome to GitHub Pages
 
 
@@ -13,9 +12,10 @@ I am currently a master student at UC Davis in Civil Engineering Department. Bef
 
 ### Taken or taking course
 
-1. Data Science Technology (interactive data visualization with Web technology)
-2. Advance Statistic Computing (High-performance computing in python)
-3. Statistic Method Machine Learning
+1. [Data Science Technology (interactive data visualization with Web technology)](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141B.html)
+2. [Advance Statistic Computing (High-performance computing in python)](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141C.html)
+3. [Statistic Method Machine Learning](https://jsharpna.github.io/208/index.html)
+4. [Applied Data Science with Python (coursra)](https://www.coursera.org/specializations/data-science-python)
 
 
 <br>
