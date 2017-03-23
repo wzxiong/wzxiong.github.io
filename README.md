@@ -26,7 +26,7 @@ I am currently a master student at UC Davis in Civil Engineering Department. Bef
 
 [**141B-Final Project： What affect California home price**](https://github.com/wzxiong/What-affects-home-price-in-California/blob/master/STA%2B141B%2BProject%2BHouse%2BPrice.html)
 
-This project tends to find the relationship between public school rating and racial composition and their influences in home prices. In addition, I examine the relationship between crime occurrence and house price. In the end, I use web scraping to predict the trend of the house price.
+This project tends to find the relationship between public school rating and racial composition and their influences in home prices. In addition, we examine the relationship between crime occurrence and house price. In the end, we use web scraping to predict the trend of the house price.
 
 
 <br>
