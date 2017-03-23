@@ -22,6 +22,18 @@ I am currently a master student at UC Davis in Civil Engineering Department. Bef
 
 ### Project
 
+<img align="right" src="price.PNG" alt="GitHub" title="GitHub" width="250" height="200" />
+
+[**141B-Final Project： What affect California home price**](http://htmlpreview.github.io/?https://github.com/wzxiong/What-affects-home-price-in-California/blob/master/STA%2B141B%2BProject%2BHouse%2BPrice.html)
+
+This project tends to find the relationship between public school rating and racial composition and their influences in home prices. In addition, I examine the relationship between crime occurrence and house price. In the end, I use web scraping to predict the trend of the house price.
+
+
+<br>
+
+<br>
+
+
 <img align="right" src="crime.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
 [**Interesting points in San Francisco**](http://htmlpreview.github.io/?https://github.com/wzxiong/Interesting-points-in-SF/blob/master/Analyzing%2Binteresting%2Bpoints%2Bin%2BSan%2BFrancisco%2B.html)
