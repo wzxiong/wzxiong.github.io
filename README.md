@@ -24,7 +24,7 @@ I am currently a master student at UC Davis in Civil Engineering Department. Bef
 
 <img align="right" src="feat.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
-[**Machine Learning Project**]( http://htmlpreview.github.io/?https://github.com/wzxiong/DAVIS-Machine-Learning/blob/master/208-final-project-xll/Code/final.html)
+[**Machine Learning Project**]( http://htmlpreview.github.io/?https://github.com/wzxiong/DAVIS-Machine-Learning/blob/master/208-final-project-xll/Code/finalproject.html)
 
 Kaggle Competition: Zillow’s Home Value Prediction (Zestimate):
 
