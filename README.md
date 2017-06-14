@@ -22,18 +22,6 @@ I am currently a master student at UC Davis in Civil Engineering Department. Bef
 
 ### Project
 
-<img align="right" src="price.PNG" alt="GitHub" title="GitHub" width="250" height="200" />
-
-[**141B-Final Project： What affect California home price**]( http://htmlpreview.github.io/?https://github.com/wzxiong/What-affects-home-price-in-California/blob/master/STA%2B141B%2BProject%2BHouse%2BPrice.html)
-
-This project tends to find the relationship between public school rating and racial composition and their influences in home prices. In addition, we examine the relationship between crime occurrence and house price. In the end, we use web scraping to predict the trend of the house price.
-
-
-<br>
-
-<br>
-
-
 <img align="right" src="feat.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
 [**Machine Learning Project**]( http://htmlpreview.github.io/?https://github.com/wzxiong/DAVIS-Machine-Learning/blob/master/208-final-project-xll/Code/final%202.1.ipynb)
@@ -44,6 +32,17 @@ Kaggle Competition: Zillow’s Home Value Prediction (Zestimate):
 * Stacking Regression(Ridge regression, Random Forest, Support Vector Machine)
 * XGBOOST
 * Neuro Network
+
+<br>
+
+<br>
+
+
+<img align="right" src="price.PNG" alt="GitHub" title="GitHub" width="250" height="200" />
+
+[**141B-Final Project： What affect California home price**]( http://htmlpreview.github.io/?https://github.com/wzxiong/What-affects-home-price-in-California/blob/master/STA%2B141B%2BProject%2BHouse%2BPrice.html)
+
+This project tends to find the relationship between public school rating and racial composition and their influences in home prices. In addition, we examine the relationship between crime occurrence and house price. In the end, we use web scraping to predict the trend of the house price.
 
 
 <br>
