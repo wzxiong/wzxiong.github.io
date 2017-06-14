@@ -34,7 +34,7 @@ This project tends to find the relationship between public school rating and rac
 <br>
 
 
-<img align="right" src="tree.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
+<img align="right" src="feat.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
 [**Machine Learning Project**]( http://htmlpreview.github.io/?https://github.com/wzxiong/DAVIS-Machine-Learning/blob/master/208-final-project-xll/Code/final%202.1.ipynb)
 
