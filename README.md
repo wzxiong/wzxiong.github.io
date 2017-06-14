@@ -36,6 +36,23 @@ This project tends to find the relationship between public school rating and rac
 
 <img align="right" src="crime.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
+[**Machine Learning Project**]( http://htmlpreview.github.io/?https://github.com/wzxiong/DAVIS-Machine-Learning/blob/master/208-final-project-xll/Code/final%202.1.ipynb)
+
+Kaggle Competition: Zillow’s Home Value Prediction (Zestimate):
+
+* Data preprocess, operate on missing data
+* Stacking Regression(Ridge regression, Random Forest, Support Vector Machine)
+* XGBOOST
+* Neuro Network
+
+
+<br>
+
+<br>
+
+
+<img align="right" src="crime.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
+
 [**Interesting points in San Francisco**]( http://htmlpreview.github.io/?https://github.com/wzxiong/Interesting-points-in-SF/blob/master/Analyzing%2Binteresting%2Bpoints%2Bin%2BSan%2BFrancisco%2B.html)
 
 This project tried to find out some interesting points in San Francisco, including analysing:
