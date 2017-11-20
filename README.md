@@ -5,7 +5,7 @@
 
 <img align="right" src="bear.jpg" alt="GitHub" title="GitHub,Social Coding" width="170" height="170" />
 
-I am currently a master student at UC Davis in Math Statistic and Civil Engineering Department. Before this, I earn my Bachelor degree from Tongji University in China. I have taken many machine learning, deep learning competitions, part of those can be find here, if you want to see more, you can go to my GitHub page which is shared at the end of the document. I am correctly doing research on NLP and building ChatBox, and I hope I will work as a Data Scientist or machine learner in the future.
+I am currently a master student at UC Davis in Math Statistic and Civil Engineering Department. Before this, I earn my Bachelor degree from Tongji University in China. I have taken part in many machine learning, deep learning competitions, part of those can be find here. If you want to see more, you can go to my GitHub page which is shared at the end of the document. I am correctly doing research on NLP and building ChatBox, and I hope I will work as a Data Scientist or machine learner in the future.
 
 
 <br>
