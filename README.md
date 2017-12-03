@@ -25,7 +25,7 @@ I am currently a master student at UC Davis in Math Statistic and Civil Engineer
 
 <img align="right" src="unet.png" alt="GitHub" title="GitHub" width="350" height="200" />
 
-[**Deep Learning Project: Satellite Imagery Feature Detection**]( http://htmlpreview.github.io/?https://github.com/wzxiong/Satellite-Imagery-Feature-Detection/blob/master)
+[**Deep Learning Project: Satellite Imagery Feature Detection**]( https://github.com/wzxiong/Satellite-Imagery-Feature-Detection/blob/master/satellite.pdf)
 
 Kaggle Competition: Dstl Satellite Imagery Feature Detection:
 
