@@ -23,7 +23,7 @@ I am currently a master student at UC Davis in Math Statistic and Civil Engineer
 
 ### Project
 
-<img align="right" src="unet.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
+<img align="right" src="unet.png" alt="GitHub" title="GitHub" width="250" height="250" />
 
 [**Deep Learning Project: Satellite Imagery Feature Detection**]( http://htmlpreview.github.io/?https://github.com/wzxiong/Satellite-Imagery-Feature-Detection/blob/master/satellite.pdf)
 
@@ -33,7 +33,9 @@ Kaggle Competition: Dstl Satellite Imagery Feature Detection:
 * U-net
 * get image patch and do reflection padding
 
+
 <br>
+
 
 <br>
 
