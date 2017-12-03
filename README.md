@@ -16,11 +16,26 @@ I am currently a master student at UC Davis in Math Statistic and Civil Engineer
 2. [Advance Statistic Computing (High-performance computing in python)](https://www.stat.ucdavis.edu/courses/expanded-course-descriptions/sta-141C.html)
 3. [Statistic Method Machine Learning](https://jsharpna.github.io/208/index.html)
 4. [Applied Data Science with Python (coursra)](https://www.coursera.org/specializations/data-science-python)
+5. [Computer Vision](http://cs231n.stanford.edu)
 
 
 <br>
 
 ### Project
+
+<img align="right" src="unet.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
+
+[**Deep Learning Project: Satellite Imagery Feature Detection**]( http://htmlpreview.github.io/?https://github.com/wzxiong/Satellite-Imagery-Feature-Detection/blob/master/satellite.pdf)
+
+Kaggle Competition: Dstl Satellite Imagery Feature Detection:
+
+* recognize objects in satellite image and classify them to 10 classes
+* U-net
+* get image patch and do reflection padding
+
+<br>
+
+<br>
 
 <img align="right" src="feat.PNG" alt="GitHub" title="GitHub" width="250" height="250" />
 
@@ -31,7 +46,7 @@ Kaggle Competition: Zillow’s Home Value Prediction (Zestimate):
 * Data preprocess, operate on missing data
 * Stacking Regression(Ridge regression, Random Forest, Support Vector Machine)
 * XGBOOST
-* Neuro Network
+* Neural Network
 
 <br>
 
